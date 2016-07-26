@@ -1,0 +1,49 @@
+
+
+
+------- START STUDENT FILE -------
+Student firstname: Sasd
+Student surname: asd
+Student email: asd
+
+
+ Student's Course Scores: 
+ Computer Science: 12
+ Computer Science with Visual Computing: 11
+ Computer Science with Security and Forensics: 10
+ Computer Science with High Performance Computing: 11
+ Computer Systems Engineering: 7
+ Software Engineering: 12
+ Maths and Computing: 12
+ Business Information Systems: 12
+------- END STUDENT FILE -------
+ Student's Course Scores: 
+ Computer Science: 11
+ Computer Science with Visual Computing: 8
+ Computer Science with Security and Forensics: 7
+ Computer Science with High Performance Computing: 10
+ Computer Systems Engineering: 9
+ Software Engineering: 14
+ Maths and Computing: 14
+ Business Information Systems: 13
+------- END STUDENT FILE -------
+
+------- START STUDENT FILE -------
+Student firstname: Joe
+Student surname: Bloggs
+Student email: jb@hotmail.com
+
+
+
+------- START STUDENT FILE -------
+Student firstname: Joe
+Student surname: Bloggs
+Student email: jb@hotmail.com
+
+
+
+------- START STUDENT FILE -------
+Student firstname: Joe
+Student surname: Bloggs
+Student email: jb1@hotmail.com
+
